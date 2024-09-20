@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rvelacap.github.io/sitemap.html.gz
+Sitemap: https://rvelacap.github.io/app/sitemap.html.gz
+Sitemap: https://rvelacap.github.io/assets/sitemap.html.gz
+Sitemap: https://rvelacap.github.io/css/sitemap.html.gz
+Sitemap: https://rvelacap.github.io/data/sitemap.html.gz
+Sitemap: https://rvelacap.github.io/includes/sitemap.html.gz
+Sitemap: https://rvelacap.github.io/item/sitemap.html.gz
+Sitemap: https://rvelacap.github.io/src/sitemap.html.gz
